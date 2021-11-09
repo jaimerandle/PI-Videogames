@@ -1,0 +1,59 @@
+
+
+.titulo {
+    font-family: chalkduster, fantasy;
+    font-size: 4rem;
+    font-weight: bold;
+    color: rgb(240, 3, 3);
+    text-align: center;
+    margin-bottom: 2rem;
+    text-shadow: 10px 6px 8px rgb(0, 0, 0);
+}
+.boton{
+    background: transparent;
+    
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px 10px rgb(0, 0, 0);
+    
+    
+}
+.boton:hover{ 
+    background: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    box-shadow: 10px 10px 10px 10px rgb(0, 0, 0);
+}
+.linkedin{
+    font-weight: 5rem;
+    background: transparent;
+    color: rgb(255, 0, 0);
+    border: none;
+   border-radius: 1rem;
+   padding: 1rem;
+    text-decoration: none;
+    font-size: 1.4rem;
+    
+   
+    transition: 0.3s;
+    margin-top: 0;
+    width: fit-content;
+    bottom: 0%;
+    position: absolute;
+    
+}
+.link:hover {
+        background: rgb(0, 0, 0);
+        font-size:auto;
+        color:rgb(255, 0, 0);
+      }
+      .link{
+          color: rgb(255, 0, 0);
+          text-decoration-line:none ;
+          
+      }
+
+    
